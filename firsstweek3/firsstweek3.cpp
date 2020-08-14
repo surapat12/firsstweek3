@@ -20,7 +20,7 @@ int main()
 		printf("Your grade is D+");
 	else if ((score >= 45) && (score <= 49))
 		printf("Your grade is D");
-	else if ((score >= 40) && (score <= 44))
+	else if ((score >= 44))
 		printf("Your grade is F");
 	else if ((score > 100))
 		printf("ERROR");
